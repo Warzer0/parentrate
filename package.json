@@ -28,7 +28,7 @@
     "express": "^5.1.0",
     "redis": "^4.6.15",
     "node-fetch": "^2.6.12",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
     "stremio-addon-sdk": "^1.6.10"
   },
   "devDependencies": {
